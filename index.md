@@ -1,7 +1,7 @@
 # Mine
 ## Yours
 ### Thiers 
-#### Whos
+#### ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### Someones
 ###### Itsguruz
 
